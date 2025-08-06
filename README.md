@@ -20,18 +20,14 @@ Built as a technical case study for Kavak.
 * *Modular Architecture:* Core logic in main_v1.py, UI in app.py.
 * *Streamlit Chat UI:* Simple, intuitive frontend for interaction.
 
-## 🦾 Project Structure
-
-
 ├── main.py          # Core logic and tool implementations
-├── app.py      # Streamlit UI
+├── app.py           # Streamlit UI
 ├── data/
 │   ├── flights.json      # Mock flight data
 │   └── visa_rules.md     # Knowledge base docs
-├── .env         # Template for environment variables
+├── .env                 # Template for environment variables
 ├── requirements.txt      # Dependencies
 └── README.md             # Project guide
-
 
 > Note: Data is loaded internally for self-contained testing.
 
