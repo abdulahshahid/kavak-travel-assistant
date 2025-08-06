@@ -71,7 +71,7 @@ Built as a technical case study for Kavak.
 5. **Run the app**
 
    ```bash
-   streamlit run streamlit_app.py
+   streamlit run app.py
    ```
 
 ## 🧠 System Logic
